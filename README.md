@@ -23,4 +23,4 @@ denk ik dat mixed reality zeker een aanwinst is voor het onderwijs en de cultuur
 
 # Prototype
 
-![More info button](https://github.com/EstherWillems/IoT-Tech-Opdr-2/blob/main/1.png)
+![video prototype](https://github.com/EstherWillems/Project-XaRt/blob/main/Prototype_Esther.mp4)
