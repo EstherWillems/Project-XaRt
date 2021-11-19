@@ -25,6 +25,6 @@ denk ik dat mixed reality zeker een aanwinst is voor het onderwijs en de cultuur
 
 ![afb1](https://github.com/EstherWillems/Project-XaRt/blob/main/Schermafbeelding%202021-11-18%20om%2014.01.46.png)
 
-![afb2](https://github.com/EstherWillems/Project-XaRt/blob/main/Schermafbeelding%202021-11-18%20om%2014.01.46.png)
+![afb2](https://github.com/EstherWillems/Project-XaRt/blob/main/Schermafbeelding%202021-11-18%20om%2014.01.56.png)
 
-![afb3](https://github.com/EstherWillems/Project-XaRt/blob/main/Schermafbeelding%202021-11-18%20om%2014.01.46.png)
+![afb3](https://github.com/EstherWillems/Project-XaRt/blob/main/Schermafbeelding%202021-11-18%20om%2014.02.12.png)
